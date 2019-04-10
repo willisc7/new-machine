@@ -59,3 +59,6 @@ npm install yarn -g
 
 # Install Java because... reasons...
 brew cask install java
+
+# Install Spectacle because resizing windows with hotkeys is awesome
+brew cask install spectacle
